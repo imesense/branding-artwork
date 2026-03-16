@@ -11,3 +11,8 @@
 # Git files
 .gitattributes text eol=lf encoding=utf-8
 .gitignore text eol=lf encoding=utf-8
+
+# Assets
+*.png binary
+*.svg binary
+*.fig binary
