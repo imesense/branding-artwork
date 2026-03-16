@@ -1,0 +1,6 @@
+# Global ignoring of different binaries and another temporary files
+
+# System cache
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
