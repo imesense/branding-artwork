@@ -8,11 +8,17 @@
 # Markdown files
 *.md text eol=crlf encoding=utf-8
 
-# Git files
-.gitattributes text eol=lf encoding=utf-8
-.gitignore text eol=lf encoding=utf-8
-
 # Assets
 *.png binary
 *.svg binary
 *.fig binary
+
+# Git files
+.gitattributes text eol=lf encoding=utf-8
+.gitignore text eol=lf encoding=utf-8
+
+# GitHub configs
+.github/CODEOWNERS text eol=lf encoding=utf-8
+.github/**/*.md text eol=lf encoding=utf-8
+.github/**/*.yml text eol=lf encoding=utf-8
+.github/**/*.yaml text eol=lf encoding=utf-8
